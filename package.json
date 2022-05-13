@@ -1,0 +1,17 @@
+{
+  "name": "rpn_calculator",
+  "version": "1.0.0",
+  "description": "Command line reverse polish notation calculator.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rpn",
+    "reverse",
+    "polish",
+    "notation"
+  ],
+  "author": "David Hutto",
+  "license": "ISC"
+}
