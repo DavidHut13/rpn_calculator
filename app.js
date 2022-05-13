@@ -1,7 +1,7 @@
 const { exit } = require("process");
 const readline = require("readline");
 const rl = readline.createInterface(process.stdin, process.stdout);
-var stack = [];
+let stack = [];
 let defaultPrompt = ">>> Enter Calculation (RPN Format):" ;
 
 rl.setPrompt(defaultPrompt);
